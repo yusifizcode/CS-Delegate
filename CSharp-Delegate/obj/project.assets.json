@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yusifizcode\\.nuget\\packages\\": {}
+    "C:\\Users\\Yusifiz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-Delegate\\CSharp-Delegate\\CSharp-Delegate.csproj",
+      "projectUniqueName": "C:\\Users\\Yusifiz\\Desktop\\CS-Delegate\\CSharp-Delegate\\CSharp-Delegate.csproj",
       "projectName": "CSharp-Delegate",
-      "projectPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-Delegate\\CSharp-Delegate\\CSharp-Delegate.csproj",
-      "packagesPath": "C:\\Users\\yusifizcode\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-Delegate\\CSharp-Delegate\\obj\\",
+      "projectPath": "C:\\Users\\Yusifiz\\Desktop\\CS-Delegate\\CSharp-Delegate\\CSharp-Delegate.csproj",
+      "packagesPath": "C:\\Users\\Yusifiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yusifiz\\Desktop\\CS-Delegate\\CSharp-Delegate\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yusifizcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yusifiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-Delegate\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-Delegate\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\Yusifiz\\Desktop\\CS-Delegate\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Yusifiz\\Desktop\\CS-Delegate\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
@@ -83,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
